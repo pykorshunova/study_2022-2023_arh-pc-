@@ -183,12 +183,19 @@ clean:
 # Выполнение лабораторной работы
 
 1. Открываю терминал и перехожу в каталог курса сформированный при выполнении лабораторной работы No3 (/afs/.dk.sci.pfu.edu.ru/home/p/y/pykorshunova/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 11-52-51.png) 
+
 2. Обновляю локальный репозиторий, скачав изменения из удаленного репозитория (/afs/.dk.sci.pfu.edu.ru/home/p/y/pykorshunova/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 12-01-33.png) 
+
 3. Перехожу в каталог с шаблоном отчета по лабораторной работе No 4 (/afs/.dk.sci.pfu.edu.ru/home/p/y/pykorshunova/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 12-01-33.png)
+
 4. Провожу компиляцию шаблона с использованием Makefile. Для этого ввожу команду make (/afs/.dk.sci.pfu.edu.ru/home/p/y/pykorshunova/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 12-01-33.png) 
+
 5. Удаляю полученный файлы с использованием Makefile. Для этого ввожу команду make clean (/afs/.dk.sci.pfu.edu.ru/home/p/y/pykorshunova/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 12-01-33.png)
+
 6. Откройте файл report.md c помощью редактора gedit.Внимательно изучаю структуру этого файла. (/afs/.dk.sci.pfu.edu.ru/home/p/y/pykorshunova/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/Снимок экрана от 2022-10-20 12-01-33.png) 
+
 7. Заполняю отчет и компилирую отчет с использованием Makefile. Проверяю корректность полученных файлов.
+
 8. Загружаю файлы на Github
 
 
